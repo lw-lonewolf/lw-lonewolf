@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @thiswontworklol or Ibbi 
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning c++
-- 📫 Mail me at ibbi014@outlook.com 
+# Hello, I am LoneWolf :wave:
 
-<p align='right'>[![LoneWolfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=lw-lonewolf)](https://github.com/anuraghazra/github-readme-stats) </align>
-</p>
-<!---
-thiswontworklol/thiswontworklol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/lw-lonewolf">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=lw-lonewolf&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff"
+  title="LoneWolf's GitHub Stats"
+  align="right"
+  width="60%"
+/>
+  
+</a>
+
+Student @ FAST NUCES Lahore
+
+- :pencil2: C++
+- :hammer_and_pick: Windows 11 / Kali Linux / VS Code / Brave
