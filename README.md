@@ -12,5 +12,5 @@
 
 Student @ FAST NUCES Lahore
 
-- :pencil2: C++
-- :hammer_and_pick: Windows 11 / Kali Linux / VS Code / Brave
+- :pencil2: C++/Bash
+- :hammer_and_pick: Windows 11 / Kali Linux / VS Code ? CLion / Brave
